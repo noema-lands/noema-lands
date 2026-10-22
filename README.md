@@ -10,6 +10,11 @@ inside the original compressed byte budget.
 
 → https://github.com/noema-lands/power-strike-teardown
 
+**Toolkit for sale:** the reskin + RLE compressor tooling, packaged and live on itch.io —
+pay what you want (enter $0 to download free):
+
+→ https://noemalands.itch.io/power-strike-sms-reskin-rle-compressor-toolkit
+
 **What I take on:** disassembly, compression / file-format work, tile and asset tooling,
 in-place patches, small utilities, written breakdowns you can verify against the binary.
 
